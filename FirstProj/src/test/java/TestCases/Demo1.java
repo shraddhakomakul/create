@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeTest;
 public class Demo1 {
 	WebDriver driver;	
 	
-	//demo
+	//
 	@Test
 	public void DemoTest() {
 		driver.get("http://www.google.com/");
