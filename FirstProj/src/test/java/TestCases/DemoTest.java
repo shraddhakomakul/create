@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeTest;
 public class DemoTest {
 	WebDriver driver;	
 	
-	//demoTest
+	//demoTest1
 	@Test
 	public void DemoTest() {
 		driver.get("https://mvnrepository.com");
